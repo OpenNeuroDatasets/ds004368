@@ -1,0 +1,17 @@
+{
+    "Name": "Meta-rdk",
+    "License": "CC0",
+    "Authors": [
+        "Martin Rouy",
+        "Matthieu Roger",
+        "Dorian Goueytes",
+        "Michael Pereira",
+        "Paul Roux",
+        "Nathan Faivre"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004368.v1.0.1"
+}
