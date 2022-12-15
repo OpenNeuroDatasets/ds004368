@@ -1,0 +1,7 @@
+{
+  "Name": "Meta-rdk",
+  "License": "CC0",
+  "Authors": ["Martin Rouy", "Matthieu Roger", "Dorian Goueytes", "Michael Pereira", "Paul Roux", "Nathan Faivre"],
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.1.1"
+}
